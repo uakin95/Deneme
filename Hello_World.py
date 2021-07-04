@@ -1,5 +1,5 @@
 print("Hello World")
-# I made a change
+# I made a change vazgeçtim mastera mergelicem
 #Yeni bir değişiklik
 
 
