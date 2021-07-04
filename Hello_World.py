@@ -6,3 +6,5 @@ print("Hello World")
 print("Learning Git")
 a=5
 b= a + 8
+
+#Mergelendikten Sonraki Comment
